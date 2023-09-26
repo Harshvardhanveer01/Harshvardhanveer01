@@ -1,1 +1,0 @@
-i want 1 app to sell dairy products which has all the products made from dairy and cell them to customers please make me an app which has list of proper products with their price please make me 1 app which is easy to use if there is and the customers will be attracted and buy the product then please write me the code in java and other all language
